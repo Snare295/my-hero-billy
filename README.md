@@ -27,7 +27,7 @@ valim valim valim na gay party)
 - Контроль та редагування існуючого опитування;
 - Отримання результатів опитування та статистки.
 
-## <a name ="4"> Productivity</a>
+## <a name ="4"> Practivity/Practicality</a>
 
 - **Вимоги:**
   - Практичність;
